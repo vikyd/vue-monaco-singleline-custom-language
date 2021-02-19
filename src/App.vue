@@ -36,6 +36,14 @@
           >https://github.com/vikyd/vue-monaco-singleline</a
         >
       </p>
+      <p>
+        Source code of this demo:
+        <a
+          href="https://github.com/vikyd/vue-monaco-singleline-custom-language"
+          target="_blank"
+          >https://github.com/vikyd/vue-monaco-singleline-custom-language</a
+        >
+      </p>
       <p>Completion works locally, but not working on codesandbox.io</p>
     </div>
   </div>
