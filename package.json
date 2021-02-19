@@ -10,6 +10,7 @@
     "core-js": "^3.6.5",
     "monaco-editor-webpack-plugin": "1.9.1",
     "vue": "^2.6.11",
+    "vue-gtag": "^1.11.0",
     "vue-monaco-singleline": "^1.0.3"
   },
   "devDependencies": {
