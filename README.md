@@ -1,8 +1,10 @@
 # vue-monaco-singleline-custom-language
 
+https://vikyd.github.io/vue-monaco-singleline-custom-language/
+
 Online demo of [vue-monaco-singleline](https://github.com/vikyd/vue-monaco-singleline) of custom language.
 
-Click [here](https://vikyd.github.io/vue-monaco-singleline-custom-language) to see online demo.
+Click [here](https://vikyd.github.io/vue-monaco-singleline-custom-language/) to see online demo.
 
 - custom highlight
 - custom completion
