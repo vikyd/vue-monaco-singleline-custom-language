@@ -1,6 +1,15 @@
 const MonacoWebpackPlugin = require('monaco-editor-webpack-plugin')
 
 module.exports = {
+  publicPath:
+    process.env.NODE_ENV === 'production'
+      ? 'https://vikyd.github.io/vue-monaco-singleline-custom-language/'
+      : '/',
+  configureWebpack: {
+    optimization: {
+      splitChunks: false,
+    },
+  },
   chainWebpack: config => {
     // needed this for completion can work
     config.plugin('monaco-editor').use(MonacoWebpackPlugin, [
